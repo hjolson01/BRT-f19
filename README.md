@@ -18,7 +18,7 @@ On average, about 17% of the total existing bus stops were redundant. However, a
 
 
 
-Of these routes, we recommend elimination of routes 25, 67, 12 and 1 because these routes alone would cost an excess of $132, 000 annually to maintain based off of budget estimates of $2,500 per stop.
+Of these routes, we recommend elimination of routes 1, 4, 5, 27, 28, 44, 48, and 67 because these routes alone would cost an excess of $132, 000 annually to maintain based off of budget estimates of $2,500 per stop.
 
 Authors
 John Kitaoka - John's Github
