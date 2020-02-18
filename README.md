@@ -12,12 +12,12 @@ Preprocessing involved categorization of certain existing bus stops within walki
 Results
 On average, about 17% of the total existing bus stops were redundant. However, a closer look at the findings reveals that those inefficient bus stops had about 16% higher ridership, located in most high-density areas of the city. Certain routes also had much higher proportions of inefficient stops than others.
 
-Of these routes, we recommend elimination of routes 1, 4, 5, 27, 28, 44, 48, and 67 because these routes alone would cost an excess of $132, 000 annually to maintain based off of budget estimates of $2,500 per stop.
+Of these routes, we recommend elimination of routes 1, 4, 5, 27, 28, 44, 48, and 67 because these routes alone would cost an excess of $132,000 annually to maintain based off of budget estimates of $2,500 per stop.
 
 Authors
 
-John Kitaoka - John's Github
+John Kitaoka
 
-Hunter Olson - Hunter's Github
+Hunter Olson 
 
-Jin Woo Lee - Jin's Github
+Jin Woo Lee 
