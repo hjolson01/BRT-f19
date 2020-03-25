@@ -1,11 +1,12 @@
 # WISC-BRT-Fall2019
 Stats on proposed BRT routing plan
 
-Redundant Bus Routes in the City of Madison
-With the new BRT transportation system months away from breaking ground, we set out to find any inefficiencies that this rapid transportation system would cause to the existing traffic network. This repository contains Jupyter notebooks as well as various public data samples in order to log current progress.
+Redundant Bus Routes in the City of Madison: 
+
+With the new BRT transportation system months away from breaking ground, we set out to find any inefficiencies that this rapid transportation system would cause to the existing bus traffic network. This repository contains Jupyter notebooks, a python file, as well as various public data samples in order to log current progress.
 
 Methodology
-Establishing a solid visual context was the first concern, using Geopandas and DataFrames. The data contained geographic measures so route overlays were possible within a single plot.
+Establishing a solid visual context was the first concern, using Geopandas and Pandas DataFrames. The data contained geographic measures so route overlays were possible within a single plot.
 
 Preprocessing involved categorization of certain existing bus stops within walking distance to a proposed BRT stop location. Since the new transportation network is centered around rapid transportation, the difference in timing involved with each route arrival and departure was minimal. We classified walking distance as within a half kilometer, or about a 5-minute walk.
 
