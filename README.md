@@ -1,4 +1,4 @@
-# WISC-BRT-Fall2019
+# BRT-Fall2019
 Stats on proposed BRT routing plan
 
 Redundant Bus Routes in the City of Madison: 
